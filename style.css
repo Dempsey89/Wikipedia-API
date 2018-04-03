@@ -1,0 +1,22 @@
+body{background-image:url('https://images7.alphacoders.com/382/thumb-1920-382707.jpg');
+background-repeat:no-repeat;background-attachment: fixed;
+    background-position: center;
+background-color:#222211;}
+
+#rq{color:white;
+  text-shadow: 2px 2px black;
+text-decoration:underline}
+ul{
+  list-style-type: none;
+  color:white;background-color:black;border:black,solid, 1px;
+  opacity:.8;
+}
+ul a{
+  text-decoration:underline;
+}
+h1{color:white;
+text-shadow: 2px 2px black;}
+
+ #Clear,#search{
+   margin-bottom:2%;
+}
